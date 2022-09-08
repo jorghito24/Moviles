@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 /*import { NavController } from 'ionic-angular';*/
-import { Camera, CameraOptions } from '@awesome-cordova-plugins/camera/ngx';
+/*import { Camera, CameraOptions } from '@awesome-cordova-plugins/camera/ngx';*/
 @Component({
   selector: 'app-principal',
   templateUrl: './principal.page.html',
